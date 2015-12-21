@@ -7,3 +7,7 @@ def display_board(board)
 end
 
 # code your move method here!
+board = [" "," "," "," "," "," "," "," "," "]
+def move(board, int)
+  
+end
